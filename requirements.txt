@@ -19,5 +19,5 @@ pymongo==3.8.0
 Flask-PyMongo==2.2.0
 splinter==0.10.0
 beautifulsoup4==4.6.3
-urllib3==1.24.1
+urllib3==1.26.5
 parso==0.3.1
